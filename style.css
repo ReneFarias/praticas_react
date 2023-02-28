@@ -35,6 +35,11 @@ body {
   font-weight: 700;
   font-size: 36px;
 }
+h2 {
+  color: rgb(255, 38, 0);
+  font-weight: 700;
+  font-size: 36px;
+}
 
 .titulo h3 {
   font-weight: 400;
